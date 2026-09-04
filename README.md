@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
