@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [3903-smallest-stable-index-i](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -28,4 +29,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
