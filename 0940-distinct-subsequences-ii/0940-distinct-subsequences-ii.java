@@ -13,6 +13,7 @@ class Solution {
 
             last[ch] = dp[i - 1];
         }
+        
         return (dp[s.length()] - 1 + MOD) % MOD;
     }
 }
