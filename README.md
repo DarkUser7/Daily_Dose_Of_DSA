@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0940-distinct-subsequences-ii) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
