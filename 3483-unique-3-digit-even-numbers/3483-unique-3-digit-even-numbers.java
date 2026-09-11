@@ -4,18 +4,14 @@ class Solution {
     public int totalNumbers(int[] digits) {
 
         int[] freq = new int[10];
-
-        // Count frequency of each digit
         for (int digit : digits) {
             freq[digit]++;
         }
 
         Set<Integer> set = new HashSet<>();
 
-        // Try every 3-digit number
         for (int num = 100; num <= 999; num++) {
 
-            // Number must be even
             if (num % 2 != 0) {
                 continue;
             }
@@ -24,7 +20,6 @@ class Solution {
             int b = (num / 10) % 10;
             int c = num % 10;
 
-            // Check required digit frequency
             int[] need = new int[10];
             need[a]++;
             need[b]++;
