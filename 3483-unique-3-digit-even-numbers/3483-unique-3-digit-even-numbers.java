@@ -11,15 +11,12 @@ class Solution {
         Set<Integer> set = new HashSet<>();
 
         for (int num = 100; num <= 999; num++) {
-
             if (num % 2 != 0) {
                 continue;
             }
-
             int a = num / 100;
             int b = (num / 10) % 10;
             int c = num % 10;
-
             int[] need = new int[10];
             need[a]++;
             need[b]++;
