@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
