@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
