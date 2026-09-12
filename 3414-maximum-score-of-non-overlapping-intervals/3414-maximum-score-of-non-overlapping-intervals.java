@@ -45,8 +45,6 @@ class Solution {
             }
             return Integer.compare(a.idx, b.idx);
         });
-
-        // previous[i] = last interval whose end < arr[i].start
         int[] previous = new int[n];
 
         for (int i = 0; i < n; i++) {
@@ -68,13 +66,9 @@ class Solution {
             Interval current = arr[i - 1];
 
             for (int k = 0; k <= 4; k++) {
-
-                // Don't take current interval
                 State skip = dp[i - 1][k];
 
                 State best = skip;
-
-                // Take current interval
                 if (k > 0) {
 
                     int p = previous[i - 1];
@@ -85,10 +79,6 @@ class Solution {
                         new ArrayList<>(prev.indices);
 
                     newIndices.add(current.idx);
-
-                    // VERY IMPORTANT:
-                    // Lexicographical order is based on
-                    // original interval indices.
                     Collections.sort(newIndices);
 
                     State take = new State(
@@ -102,8 +92,6 @@ class Solution {
                 dp[i][k] = best;
             }
         }
-
-        // At most 4 intervals
         State answer = dp[n][0];
 
         for (int k = 1; k <= 4; k++) {
@@ -118,12 +106,6 @@ class Solution {
 
         return result;
     }
-
-    // Find last interval j < i such that:
-    //
-    // arr[j].r < start
-    //
-    // Strictly less because touching boundaries overlap.
     static int findPrevious(
         Interval[] arr,
         int i,
@@ -148,10 +130,6 @@ class Solution {
 
         return ans;
     }
-
-    // Choose:
-    // 1. Larger score
-    // 2. If same score, lexicographically smaller indices
     static State better(State a, State b) {
 
         if (a.score != b.score) {
@@ -178,9 +156,6 @@ class Solution {
                 return a.get(i) < b.get(i);
             }
         }
-
-        // If one is a prefix of the other,
-        // shorter one is lexicographically smaller.
         return a.size() < b.size();
     }
 }
