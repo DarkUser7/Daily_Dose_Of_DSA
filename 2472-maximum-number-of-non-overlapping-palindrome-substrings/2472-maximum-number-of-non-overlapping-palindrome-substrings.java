@@ -4,7 +4,6 @@ class Solution {
         boolean[][] pal = new boolean[n][n];
         for (int len = 1; len <= n; len++) {
             for (int i = 0; i + len <= n; i++) {
-
                 int j = i + len - 1;
                 if (s.charAt(i) == s.charAt(j)) {
                     if (len <= 2) {
