@@ -6,7 +6,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             best[i] = INF;
         }
-
         int left = 0;
         int sum = 0;
         int answer = INF;
