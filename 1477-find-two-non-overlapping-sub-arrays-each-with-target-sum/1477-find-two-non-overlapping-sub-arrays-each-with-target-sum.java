@@ -2,9 +2,6 @@ class Solution {
     public int minSumOfLengths(int[] arr, int target) {
         int n = arr.length;
         int INF = n + 1;
-
-        // best[i] = minimum length of a valid subarray
-        // completely within indices [0, i]
         int[] best = new int[n];
         for (int i = 0; i < n; i++) {
             best[i] = INF;
@@ -13,7 +10,6 @@ class Solution {
         int left = 0;
         int sum = 0;
         int answer = INF;
-
         for (int right = 0; right < n; right++) {
             sum += arr[right];
 
@@ -23,14 +19,9 @@ class Solution {
 
             if (sum == target) {
                 int len = right - left + 1;
-
-                // Combine current subarray with the best
-                // non-overlapping subarray before 'left'
                 if (left > 0 && best[left - 1] != INF) {
                     answer = Math.min(answer, len + best[left - 1]);
                 }
-
-                // Store the shortest valid subarray ending at/before right
                 if (right == 0) {
                     best[right] = len;
                 } else {
