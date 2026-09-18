@@ -3,15 +3,11 @@ import java.util.*;
 class Solution {
 
     public List<String> maxNumOfSubstrings(String s) {
-
         int n = s.length();
-
         int[] first = new int[26];
         int[] last = new int[26];
 
         Arrays.fill(first, -1);
-
-        // Find first and last occurrence
         for (int i = 0; i < n; i++) {
             int c = s.charAt(i) - 'a';
 
@@ -23,8 +19,6 @@ class Solution {
         }
 
         List<int[]> intervals = new ArrayList<>();
-
-        // Create valid intervals
         for (int c = 0; c < 26; c++) {
 
             if (first[c] == -1)
@@ -38,14 +32,10 @@ class Solution {
             for (int i = l; i <= r; i++) {
 
                 int x = s.charAt(i) - 'a';
-
-                // Character occurs before our interval
                 if (first[x] < l) {
                     valid = false;
                     break;
                 }
-
-                // Expand interval
                 r = Math.max(r, last[x]);
             }
 
@@ -53,8 +43,6 @@ class Solution {
                 intervals.add(new int[]{l, r});
             }
         }
-
-        // Sort by ending position
         intervals.sort((a, b) -> a[1] - b[1]);
 
         List<String> ans = new ArrayList<>();
