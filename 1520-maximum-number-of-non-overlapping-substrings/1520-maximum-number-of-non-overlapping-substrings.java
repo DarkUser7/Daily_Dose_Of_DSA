@@ -19,17 +19,12 @@ class Solution {
         }
         List<int[]> intervals = new ArrayList<>();
         for (int c = 0; c < 26; c++) {
-
             if (first[c] == -1)
                 continue;
-
             int l = first[c];
             int r = last[c];
-
             boolean valid = true;
-
             for (int i = l; i <= r; i++) {
-
                 int x = s.charAt(i) - 'a';
                 if (first[x] < l) {
                     valid = false;
@@ -37,7 +32,6 @@ class Solution {
                 }
                 r = Math.max(r, last[x]);
             }
-
             if (valid) {
                 intervals.add(new int[]{l, r});
             }
