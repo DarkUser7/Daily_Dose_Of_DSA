@@ -17,7 +17,6 @@ class Solution {
 
             last[c] = i;
         }
-
         List<int[]> intervals = new ArrayList<>();
         for (int c = 0; c < 26; c++) {
 
