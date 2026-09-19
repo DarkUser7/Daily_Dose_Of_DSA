@@ -7,7 +7,6 @@ class Solution {
 
         int dx = xCenter - closestX;
         int dy = yCenter - closestY;
-
         return dx * dx + dy * dy <= radius * radius;
     }
 }
