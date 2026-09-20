@@ -6,5 +6,6 @@ class Solution {
             sum += value * (i + 1);
         }
         return sum;
+        
     }
 }
