@@ -111,21 +111,14 @@ class Solution {
         this.nums = nums;
         this.n = nums.length;
         this.k = k;
-
         tree = new Node[4 * n];
-
         build(1, 0, n - 1);
-
         int[] answer = new int[queries.length];
-
         for (int i = 0; i < queries.length; i++) {
-
             int index = queries[i][0];
             int value = queries[i][1];
             int start = queries[i][2];
             int x = queries[i][3];
-
-
             nums[index] = value;
             update(1, 0, n - 1, index, value);
 
