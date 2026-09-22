@@ -125,7 +125,7 @@ class Solution {
             int start = queries[i][2];
             int x = queries[i][3];
 
-            // Persistent update
+
             nums[index] = value;
             update(1, 0, n - 1, index, value);
 
