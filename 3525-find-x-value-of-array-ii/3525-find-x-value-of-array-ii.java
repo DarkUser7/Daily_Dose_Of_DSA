@@ -76,36 +76,27 @@ class Solution {
             tree[node] = makeNode(value);
             return;
         }
-
         int mid = l + (r - l) / 2;
-
         if (index <= mid) {
             update(node * 2, l, mid, index, value);
         } else {
             update(node * 2 + 1, mid + 1, r, index, value);
         }
-
         tree[node] = merge(tree[node * 2], tree[node * 2 + 1]);
     }
-
     Node query(int node, int l, int r, int ql, int qr) {
-
         if (qr < l || r < ql) {
             return null;
         }
-
         if (ql <= l && r <= qr) {
             return tree[node];
         }
-
         int mid = l + (r - l) / 2;
-
         Node left = query(node * 2, l, mid, ql, qr);
         Node right = query(node * 2 + 1, mid + 1, r, ql, qr);
 
         return merge(left, right);
     }
-
     public int[] resultArray(int[] nums, int k, int[][] queries) {
 
         this.nums = nums;
