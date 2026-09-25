@@ -3,20 +3,14 @@ import java.util.*;
 class Solution {
     private String expression;
     private int index;
-
     public List<String> braceExpansionII(String expression) {
         this.expression = expression;
         this.index = 0;
-
         Set<String> result = parseExpression();
-
         List<String> answer = new ArrayList<>(result);
         Collections.sort(answer);
-
         return answer;
     }
-
-    // Handles union: e1,e2,e3
     private Set<String> parseExpression() {
         Set<String> result = parseTerm();
 
@@ -24,11 +18,9 @@ class Solution {
                 && expression.charAt(index) == ',') {
 
             index++; 
-
             Set<String> next = parseTerm();
             result.addAll(next);
         }
-
         return result;
     }
     private Set<String> parseTerm() {
