@@ -33,7 +33,6 @@ class Solution {
             Set<String> next = parseFactor();
             result = concatenate(result, next);
         }
-
         return result;
     }
     private Set<String> parseFactor() {
@@ -42,11 +41,9 @@ class Solution {
 
             result.add(String.valueOf(expression.charAt(index)));
             index++;
-
             return result;
         }
         index++;
-
         Set<String> result = parseExpression();
 
         index++;
