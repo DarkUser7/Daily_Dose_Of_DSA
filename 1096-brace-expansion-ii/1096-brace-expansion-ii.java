@@ -23,7 +23,7 @@ class Solution {
         while (index < expression.length()
                 && expression.charAt(index) == ',') {
 
-            index++; // skip ','
+            index++; 
 
             Set<String> next = parseTerm();
             result.addAll(next);
@@ -31,8 +31,6 @@ class Solution {
 
         return result;
     }
-
-    // Handles concatenation: ab{c,d}ef
     private Set<String> parseTerm() {
         Set<String> result = new HashSet<>();
         result.add("");
@@ -40,19 +38,13 @@ class Solution {
         while (index < expression.length()
                 && expression.charAt(index) != ','
                 && expression.charAt(index) != '}') {
-
             Set<String> next = parseFactor();
-
             result = concatenate(result, next);
         }
 
         return result;
     }
-
-    // Handles a single letter or {...}
     private Set<String> parseFactor() {
-
-        // Case 1: lowercase letter
         if (Character.isLetter(expression.charAt(index))) {
             Set<String> result = new HashSet<>();
 
@@ -61,18 +53,14 @@ class Solution {
 
             return result;
         }
-
-        // Case 2: {...}
-        index++; // skip '{'
+        index++;
 
         Set<String> result = parseExpression();
 
-        index++; // skip '}'
+        index++;
 
         return result;
     }
-
-    // Cartesian-product concatenation
     private Set<String> concatenate(Set<String> a, Set<String> b) {
         Set<String> result = new HashSet<>();
 
