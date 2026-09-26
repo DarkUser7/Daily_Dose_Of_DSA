@@ -2,8 +2,6 @@ import java.util.*;
 
 class Solution {
     public String evaluate(String s, List<List<String>> knowledge) {
-        
-        // Store key-value pairs
         HashMap<String, String> map = new HashMap<>();
         
         for (List<String> pair : knowledge) {
@@ -16,19 +14,12 @@ class Solution {
 
         while (i < s.length()) {
 
-            // Start of bracket pair
             if (s.charAt(i) == '(') {
                 int j = i + 1;
-
-                // Find closing bracket
                 while (s.charAt(j) != ')') {
                     j++;
                 }
-
-                // Extract key
-                String key = s.substring(i + 1, j);
-
-                // Replace with value or ?
+                String key = s.substring(i + 1, j);    
                 if (map.containsKey(key)) {
                     ans.append(map.get(key));
                 } else {
