@@ -34,12 +34,9 @@ class Solution {
                 } else {
                     ans.append("?");
                 }
-
-                // Move after ')'
                 i = j + 1;
 
             } else {
-                // Normal character
                 ans.append(s.charAt(i));
                 i++;
             }
