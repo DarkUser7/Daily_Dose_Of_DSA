@@ -9,7 +9,6 @@ class Solution {
             if (ch == '(') {
                 stack.push(current);
                 current = new StringBuilder();
-
             } else if (ch == ')') {
                 current.reverse();
                 StringBuilder previous = stack.pop();
