@@ -6,9 +6,7 @@ class Solution {
         StringBuilder current = new StringBuilder();
 
         for (char ch : s.toCharArray()) {
-
             if (ch == '(') {
-                // Save the current string
                 stack.push(current);
                 current = new StringBuilder();
 
