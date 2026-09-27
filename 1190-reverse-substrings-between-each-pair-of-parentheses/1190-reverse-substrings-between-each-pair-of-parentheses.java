@@ -13,10 +13,7 @@ class Solution {
                 current = new StringBuilder();
 
             } else if (ch == ')') {
-                // Reverse the innermost substring
                 current.reverse();
-
-                // Attach it to the previous string
                 StringBuilder previous = stack.pop();
                 previous.append(current);
 
