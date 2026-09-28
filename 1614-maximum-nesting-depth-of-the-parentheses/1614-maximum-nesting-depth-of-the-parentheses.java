@@ -11,7 +11,6 @@ class Solution {
             } else if (ch == ')') {
                 depth--;
             }
-            
         }
 
         return maxDepth;
