@@ -4,7 +4,6 @@ class Solution {
         int n = seq.length();
         int[] ans = new int[n];
         int depth = 0;
-
         for (int i = 0; i < n; i++) {
             char c = seq.charAt(i);
 
