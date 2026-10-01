@@ -1,45 +1,36 @@
-Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
-An input string is valid if:
+import java.util.Stack;
 
-Open brackets must be closed by the same type of brackets.
-Open brackets must be closed in the correct order.
-Every close bracket has a corresponding open bracket of the same type.
- 
+class Solution {
+    public boolean isValid(String s) {
+        Stack<Character> stack = new Stack<>();
 
-Example 1:
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
 
-Input: s = "()"
+            // Push opening brackets
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            } 
+            else {
+                // No opening bracket to match
+                if (stack.isEmpty()) {
+                    return false;
+                }
 
-Output: true
+                char top = stack.pop();
 
-Example 2:
+                // Check matching brackets
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
+                    return false;
+                }
+            }
+        }
 
-Input: s = "()[]{}"
+        // All opening brackets must be closed
+        return stack.isEmpty();
+    }
+}
 
-Output: true
-
-Example 3:
-
-Input: s = "(]"
-
-Output: false
-
-Example 4:
-
-Input: s = "([])"
-
-Output: true
-
-Example 5:
-
-Input: s = "([)]"
-
-Output: false
-
- 
-
-Constraints:
-
-1 <= s.length <= 104
-s consists of parentheses only '()[]{}'
