@@ -23,8 +23,6 @@ class Solution {
             backtrack(result, current, open + 1, close, n);
             current.deleteCharAt(current.length() - 1);
         }
-
-        // Add closing bracket only if valid
         if (close < open) {
             current.append(')');
             backtrack(result, current, open, close + 1, n);
