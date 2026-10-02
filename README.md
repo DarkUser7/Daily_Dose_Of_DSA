@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
