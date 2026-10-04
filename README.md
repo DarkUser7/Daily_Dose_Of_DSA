@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0835-image-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0836-rectangle-overlap) |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -180,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
