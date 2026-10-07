@@ -52,6 +52,6 @@ class Solution {
             }
         }
 
-        return balance == 0;
+        return balance == 0;\
     }
 }
