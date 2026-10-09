@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0301-remove-invalid-parentheses) |
+| [0443-string-compression](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
