@@ -12,6 +12,7 @@ class Solution {
                         chars[write++] =c;
                     }
                 }
+                
                 count = 1;
             }
         }
