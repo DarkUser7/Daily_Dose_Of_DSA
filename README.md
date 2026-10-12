@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Geometry
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1512-number-of-good-pairs) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
