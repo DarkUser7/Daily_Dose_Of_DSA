@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
