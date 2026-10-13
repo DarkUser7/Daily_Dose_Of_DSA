@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0443-string-compression) |
