@@ -12,6 +12,7 @@ class Solution {
             }
             leftSum +=nums[i];
         }
+        
         return -1;
     }
 }
