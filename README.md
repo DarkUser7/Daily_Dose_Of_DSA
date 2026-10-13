@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0443-string-compression) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
