@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
