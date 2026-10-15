@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0443-string-compression) |
+| [0905-sort-array-by-parity](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
