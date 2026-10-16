@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0414-third-maximum-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -283,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/DarkUser7/Daily_Dose_Of_DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
