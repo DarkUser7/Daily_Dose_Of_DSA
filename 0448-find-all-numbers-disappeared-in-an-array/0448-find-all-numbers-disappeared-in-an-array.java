@@ -13,7 +13,6 @@ class Solution {
             if(nums[i]>0){
                 result.add(i+1);
             }
-            
         }
         return result;
     }
